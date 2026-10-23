@@ -2,9 +2,11 @@
   <img src="repo-icon.svg" width="180" alt="Responsive HTML CSS jQuery project icon" />
 </p>
 
-# Responsive HTML CSS jQuery Website Template — Classic Front-End Project
+# ReyadResponsive — Responsive HTML CSS JavaScript & jQuery Website Template
 
-A multi-section **responsive website template** built with HTML, CSS, JavaScript, and jQuery. The project includes a full-screen header slider, services, team members, testimonials, portfolio-style sections, navigation interactions, and classic front-end effects.
+**ReyadResponsive**, created by **Mohamed Reyad (@reyad-dev)**, is a multi-section **responsive website template** built with HTML, CSS, JavaScript, and jQuery for front-end learning and classic agency or business websites.
+
+The project includes a full-screen header slider, services, team members, testimonials, portfolio-style sections, navigation interactions, and classic front-end effects.
 
 This repository is a practical learning project for developers looking for a **jQuery website template**, **HTML CSS JavaScript practice project**, or a classic one-page agency/business website structure.
 
