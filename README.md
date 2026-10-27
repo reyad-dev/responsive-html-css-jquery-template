@@ -2,7 +2,7 @@
   <img src="repo-icon.svg" width="180" alt="Responsive HTML CSS jQuery project icon" />
 </p>
 
-# ReyadResponsive — Responsive HTML CSS JavaScript & jQuery Website Template
+# ReyadResponsive | Responsive HTML CSS JavaScript & jQuery Website Template
 
 **ReyadResponsive**, created by **Mohamed Reyad (@reyad-dev)**, is a multi-section **responsive website template** built with HTML, CSS, JavaScript, and jQuery for front-end learning and classic agency or business websites.
 
