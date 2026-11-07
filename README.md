@@ -4,6 +4,8 @@
 
 # ReyadResponsive | Responsive HTML CSS JavaScript & jQuery Website Template
 
+[Live demo](https://reyad-dev.github.io/responsive-html-css-jquery-template/)
+
 **ReyadResponsive**, created by **Mohamed Reyad (@reyad-dev)**, is a multi-section **responsive website template** built with HTML, CSS, JavaScript, and jQuery for front-end learning and classic agency or business websites.
 
 The project includes a full-screen header slider, services, team members, testimonials, portfolio-style sections, navigation interactions, and classic front-end effects.
