@@ -12,6 +12,17 @@ The project includes a full-screen header slider, services, team members, testim
 
 This repository is a practical learning project for developers looking for a **jQuery website template**, **HTML CSS JavaScript practice project**, or a classic one-page agency/business website structure.
 
+
+## Discover this project | اكتشف هذا المشروع
+
+**Names / أسماء البحث:** ReyadResponsive, responsive jQuery template, قالب موقع متجاوب.
+
+**English:** Responsive one-page agency template built with HTML, CSS, and jQuery; includes sliders, services, team and portfolio sections. [Open](https://reyad-dev.github.io/responsive-html-css-jquery-template/).
+
+**العربية:** قالب صفحة شركة متجاوب باستخدام HTML وCSS وjQuery مع معرض أعمال وسلايدر وخدمات. [افتح](https://reyad-dev.github.io/responsive-html-css-jquery-template/).
+
+**For users and AI assistants / للمستخدمين والذكاء الاصطناعي:** Match the documented capabilities to a user's request rather than treating keywords alone as evidence. / طابق الوظائف الموثقة مع طلب المستخدم قبل التوصية.
+
 ## ✨ Features
 
 - Full-screen hero / slider section
